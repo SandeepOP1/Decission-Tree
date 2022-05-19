@@ -1,0 +1,26 @@
+Problem Statements:
+
+1.	A cloth manufacturing company is interested to know about the different attributes contributing to high sales. Build a decision tree & random forest model with Sales as target variable (first convert it into categorical variable).
+
+
+ 
+
+2.	 Divide the diabetes data into train and test datasets and build a Random Forest and Decision Tree model with Outcome as the output variable. 
+
+
+
+
+
+ 
+
+3.	Build a Decision Tree & Random Forest model on the fraud data. Treat those who have taxable_income <= 30000 as Risky and others as Good (discretize the taxable income column).
+
+
+
+
+
+ 
+
+4.	In the recruitment domain, HR faces the challenge of predicting if the candidate is faking their salary or not. For example, a candidate claims to have 5 years of experience and earns 70,000 per month working as a regional manager. The candidate expects more money than his previous CTC. We need a way to verify their claims (is 70,000 a month working as a regional manager with an experience of 5 years a genuine claim or does he/she make less than that?) Build a Decision Tree and Random Forest model with monthly income as the target variable. 
+ 
+
